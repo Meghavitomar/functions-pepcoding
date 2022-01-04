@@ -1,3 +1,7 @@
+//NUMBER SYSTEM
+
+
+
 import java.util.Scanner;
 public class decimalToBinary {
     public static int decToBin(int n) {
